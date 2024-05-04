@@ -28,7 +28,6 @@ analytical thinking.
 <img align="left" width="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS"  />
 <img align="left" width="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI"  />
 
----
 
 <br/>
 
@@ -43,10 +42,9 @@ analytical thinking.
 
 ### Tools
 
----
 <img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" />
 <img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
 <img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 <img align="left" style="padding-right:10px;" alt="Postman" width="50px" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
 
-<br/>
+
