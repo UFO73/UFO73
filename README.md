@@ -28,7 +28,7 @@ analytical thinking.
 <img align="left" width="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS"  />
 <img align="left" width="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" /><br/>
 
-<br/><br/><br/>
+<br/><br/>
 
 
 ### Services
