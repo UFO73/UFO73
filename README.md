@@ -64,9 +64,8 @@ analytical thinking.
 </a>
 
 <a href="mailto:sergiyleshchak@gmail.com" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg width="32px" alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg width="30px" alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
 
 
 </div>  
