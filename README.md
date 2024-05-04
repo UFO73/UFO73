@@ -10,7 +10,8 @@ looking for a professional company
 for long-term collaboration. Fast
 learner with strong and flexible
 analytical thinking.
-------
+
+---
 
 ### Frontend
 
@@ -27,8 +28,6 @@ analytical thinking.
 <img align="left" width="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS"  />
 <img align="left" width="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI"  />
 
----
-<br/>
 
 ### Services
 
@@ -37,8 +36,6 @@ analytical thinking.
 <img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
 <img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 
----
-<br/>
 
 ### Tools
 
