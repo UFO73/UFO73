@@ -28,9 +28,9 @@ analytical thinking.
 <img align="left" width="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS"  />
 <img align="left" width="50px" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" /><br/>
 
-<br/><br/>
+<br/>
 
-
+---
 ### Services
 
 <img align="left" style="padding-right:10px;" alt="Git" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -39,7 +39,7 @@ analytical thinking.
 <img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="50" /><br/>
 
 <br/>
-
+---
 ### Tools
 
 <img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="50" />
