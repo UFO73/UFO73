@@ -63,4 +63,10 @@ analytical thinking.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+<a href="mailto:sergiyleshchak@gmail.com" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg width="32px" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+
+
 </div>  
