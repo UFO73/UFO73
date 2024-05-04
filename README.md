@@ -1,10 +1,14 @@
 # Tran Anh Tuat
 
-**`Fullstack Developer / Content Creator`**
+I am a JavaScript Developer with 3+
+years of experience in software
+development. Purposeful,
+professionally motivated, young and
+looking for a professional company
+for long-term collaboration. Fast
+learner with strong and flexible
+analytical thinking.
 
-Hi everyone, I'm Tuat. I'm from Vietnam. I graduated University of Information Technology - Vietnam National University, Ho Chi Minh City.
-Now I'm living in Japan and work as a fullstack software engineer.
-I'm also a content creator with a Youtube channel with over 17.000 followers [Tuat Tran Anh](https://www.youtube.com/c/tuattrananh?sub_confirmation=1)
 
   <p align="left">
       <!--<a href="https://www.youtube.com/c/tuattrananh?sub_confirmation=1">
