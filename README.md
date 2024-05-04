@@ -40,4 +40,9 @@ analytical thinking.
 
 <br/>
 
+### Tools
 
+<img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" width="50" />
+<img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" width="50" />
+<img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="50" />
+<img align="left" style="padding-right:10px;" alt="Postman" width="50px" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" /><br/>
