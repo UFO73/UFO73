@@ -1,6 +1,6 @@
 # Hi! I am Sergey👋
 
-**`FRONTEND DEVELOPER`**
+**`MIDDLE FRONTEND DEVELOPER`**
 
 I am a JavaScript Developer with 3+
 years of experience in software
